@@ -1,6 +1,6 @@
 Autopart Supplier
 
-This is a project made in PHP of an auto part supplier, inspired in WorldPac supplier website.
+This is a project made in PHP of an auto part supplier.
 
 It includes a catalog with a cart and a form.
 
